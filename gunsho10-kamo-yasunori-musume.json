@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kamo-yasunori-musume",
  "yomi": "かものやすのりのむすめのしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（自撰）",
+  "era": "平安中期",
+  "author": "賀茂保憲女（自撰）",
+  "desc": "陰陽家賀茂保憲の娘の家集。わが身の不遇を嘆く長い序を冒頭に置き、四季の歌や贈答を収める。奥書に百十六首とあるのに二百余首あると不審を記す。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -2398,6 +2403,6 @@
   "poems": 207,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
